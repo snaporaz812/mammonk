@@ -1,0 +1,7 @@
+HEADERS = {"User-Agent": "Mozilla/5.0"} # Specific to Firefox
+
+ISBNs = [
+                "9780261102217", # "The Hobbit", English
+            ]
+
+key = "your-key"
