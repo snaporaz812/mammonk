@@ -1,0 +1,2 @@
+HEADERS = {"User-Agent": "Mozilla/5.0"} # Specific to Firefox
+key = "your-key"
